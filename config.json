@@ -1,0 +1,23 @@
+{
+    "source": ["tokens/**/*.json"],
+    "platforms": {
+      "scss": {
+        "transformGroup": "css",
+        "prefix": "cui",
+        "buildPath": "build/css/",
+        "files": [{
+          "destination": "_variables.css",
+          "format": "css/variables"
+        }],
+        //"actions": ["copy_assets"]
+      },
+      "android": {
+        "transforms": ["attribute/cti", "name/cti/snake", "color/hex", "size/remToSp", "size/remToDp"],
+        "buildPath": "build/android/src/main/res/values/",
+        "files": [{
+          "destination": "style_dictionary_colors.xml",
+          "format": "android/colors"
+        }]
+      }
+    }
+  }
