@@ -8,8 +8,7 @@
         "files": [{
           "destination": "_variables.css",
           "format": "css/variables"
-        }],
-        //"actions": ["copy_assets"]
+        }]
       },
       "android": {
         "transforms": ["attribute/cti", "name/cti/snake", "color/hex", "size/remToSp", "size/remToDp"],

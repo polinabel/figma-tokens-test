@@ -1,8 +1,18 @@
 /**
  * Do not edit directly
- * Generated on Fri, 26 May 2023 17:40:19 GMT
+ * Generated on Fri, 26 May 2023 17:58:36 GMT
  */
 
 :root {
-  --cui-core-primary-shade-5: #002720;
+  --cui-core-color-primary-shade-5: #002720;
+  --cui-core-color-primary-shade-4: #003A30;
+  --cui-core-color-primary-shade-3: #004E3F;
+  --cui-core-color-primary-shade-2: #00614F;
+  --cui-core-color-primary-shade-1: #00755F;
+  --cui-core-color-primary-base: #00886F;
+  --cui-core-color-primary-tint-4: #33A08C;
+  --cui-core-color-primary-tint-3: #66B8A9;
+  --cui-core-color-primary-tint-2: #99CFC5;
+  --cui-core-color-primary-tint-1: #CCE7E2;
+  --cui-core-color-primary-tint-1-05: rgba(204,231,226,0.5);
 }
