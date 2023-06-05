@@ -1,0 +1,15 @@
+{
+  "typography": {
+    "heading-xl": {
+      "desktop": {
+        "value": {
+          "fontFamily": "{font-family.cytiva-aktiv}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{line-height.3}",
+          "fontSize": "{font-size.13}"
+        },
+        "type": "typography"
+      }
+    }
+  }
+}

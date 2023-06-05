@@ -3,6 +3,11 @@
     "style-dictionary": "^3.8.0"
   },
   "scripts": {
-    "style-dictionary": "style-dictionary build"
+    "style-dictionary": "style-dictionary build",
+    "token-transformer1": "token-transformer ./tokens/core.json core_new.json",
+    "token-transformer2": "token-transformer ./tokens/alias-web.json alias-web_new.json"
+  },
+  "dependencies": {
+    "token-transformer": "^0.0.33"
   }
 }
