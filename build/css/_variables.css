@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 01 Jun 2023 09:02:53 GMT
+ * Generated on Mon, 05 Jun 2023 13:20:41 GMT
  */
 
 :root {
@@ -14,6 +14,7 @@
   --cui-core-color-primary-tint-3: #66B8A9;
   --cui-core-color-primary-tint-2: #99CFC5;
   --cui-core-color-primary-tint-1: #CCE7E2;
+  --cui-core-color-primary-tint-1-09: rgba(204,231,226,0.9);
   --cui-core-color-primary-tint-1-05: rgba(204,231,226,0.5);
   --cui-core-color-secondary-shade-5: #1A3864;
   --cui-core-color-secondary-shade-4: #224B82;
@@ -79,10 +80,35 @@
   --cui-core-color-additional-green-01: rgba(11,136,49,0.1);
   --cui-core-color-additional-red-01: rgba(224,9,31,0.1);
   --cui-core-color-additional-orange-01: rgba(255,89,0,0.1);
-  --cui-core-font-family-cytiva-aktiv: 'Cytiva Aktiv', 'Noto Sans SC', 'Nanum Gothic', Arial, Helvetica, sans-serif;;
+  --cui-core-web-font-family-cytiva-aktiv: 'Cytiva Aktiv', 'Noto Sans SC', 'Nanum Gothic', Arial, Helvetica, sans-serif;
+  --cui-core-web-font-family-cytiva-aktiv-jp: 'Cytiva Aktiv', 'Noto Sans JP', 'Nanum Gothic', Arial, Helvetica, sans-serif;
+  --cui-core-font-size-1: 10px;
+  --cui-core-font-size-2: 12px;
+  --cui-core-font-size-3: 14px;
+  --cui-core-font-size-4: 16px;
+  --cui-core-font-size-5: 17px;
+  --cui-core-font-size-6: 18px;
+  --cui-core-font-size-7: 20px;
+  --cui-core-font-size-8: 22px;
+  --cui-core-font-size-9: 24px;
+  --cui-core-font-size-10: 26px;
   --cui-core-font-size-11: 30px;
+  --cui-core-font-size-12: 36px;
   --cui-core-font-size-13: 48px;
-  --cui-core-line-height-2: 106%;
-  --cui-core-line-height-3: 108%;
+  --cui-core-font-size-14: 64px;
+  --cui-core-font-size-15: 128px;
+  --cui-core-line-height-1: 1;
+  --cui-core-line-height-2: 18px;
+  --cui-core-line-height-3: 20px;
+  --cui-core-line-height-4: 24px;
+  --cui-core-line-height-5: 28px;
+  --cui-core-line-height-6: 32px;
+  --cui-core-line-height-7: 36px;
+  --cui-core-line-height-8: 40px;
+  --cui-core-line-height-9: 52px;
+  --cui-core-line-height-10: 68px;
+  --cui-core-font-weight-normal: 400;
+  --cui-core-font-weight-medium: 500;
   --cui-core-font-weight-bold: 700;
+  --cui-core-software-font-family-cytiva-aktiv: 'Cytiva Aktiv', Helvetica, sans-serif;
 }
